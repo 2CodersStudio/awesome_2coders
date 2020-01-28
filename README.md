@@ -9,13 +9,13 @@ Awesome resources and websites that every software developer should know...
 
 ## UI
 
-https://www.sketch.com
+* https://www.sketch.com
 
 ## Source code versioning
 
-https://bitbucket.org
-https://github.com
-https://www.sourcetreeapp.com
+* https://bitbucket.org
+* https://github.com
+* https://www.sourcetreeapp.com
 
 
 ## Image placeholders

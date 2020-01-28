@@ -1,8 +1,8 @@
 # Awesome 2coders
+
 Awesome resources and websites that every software developer should know...
 
 Curated list created by the team of 2Coders Studio: https://2coders.com
-
 
 ## Text editors
 
@@ -20,7 +20,6 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://git-scm.com/docs
 * https://www.sourcetreeapp.com
 
-
 ## Image placeholders
 
 * https://picsum.photos
@@ -34,6 +33,8 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://reactjs.org
 * https://angular.io
 * https://tympanus.net/codrops
+* https://aframe.io
+* https://threejs.org
 * https://github.com/nicolesaidy/awesome-web-design
 
 ## Web backend
@@ -55,8 +56,11 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://developer.android.com
 * https://github.com/JStumpp/awesome-android
 
+## Miscellaneous
+
+* https://experiments.withgoogle.com/
+* https://github.com/sindresorhus/awesome
 
 ## for everything else
 
 * https://stackoverflow.com 😂
-* https://github.com/sindresorhus/awesome

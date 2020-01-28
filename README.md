@@ -17,6 +17,7 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 
 * https://bitbucket.org
 * https://github.com
+* https://git-scm.com/docs
 * https://www.sourcetreeapp.com
 
 
@@ -27,14 +28,26 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://fakeimg.pl
 * https://eu.ui-avatars.com
 
-## Web frameworks
+## Web frontend
+
+* https://getbootstrap.com
+* https://reactjs.org
+* https://angular.io
+* https://tympanus.net/codrops
+* https://github.com/nicolesaidy/awesome-web-design
+
+## Web backend
 
 * https://laravel.com
 * https://rubyonrails.org
 
 ## iOS
 
-* https://nshipster.com/
+* https://nshipster.com
+* https://wwdc.io
+* https://developer.apple.com/videos
+* https://cocoapods.org
+* https://www.cocoacontrols.com/
 * https://github.com/matteocrippa/awesome-swift
 
 ## Android
@@ -46,3 +59,4 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 ## for everything else
 
 * https://stackoverflow.com 😂
+* https://github.com/sindresorhus/awesome

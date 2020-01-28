@@ -1,5 +1,7 @@
-# 2coders_awesome
+# Awesome 2coders
 Awesome resources and websites that every software developer should know...
+
+Curated list by the team of 2Coders Studio: https://2coders.com
 
 
 ## Text editors

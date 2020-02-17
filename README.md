@@ -56,10 +56,16 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://developer.android.com
 * https://github.com/JStumpp/awesome-android
 
+## OPS
+
+* https://certbot.eff.org
+* https://www.ssllabs.com/ssltest/analyze.html
+
 ## Miscellaneous
 
 * https://experiments.withgoogle.com/
 * https://github.com/sindresorhus/awesome
+* https://madewithlaravel.com/
 
 ## for everything else
 

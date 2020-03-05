@@ -44,6 +44,7 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 
 ## iOS
 
+* https://github.com/futurice/ios-good-practices
 * https://nshipster.com
 * https://wwdc.io
 * https://developer.apple.com/videos

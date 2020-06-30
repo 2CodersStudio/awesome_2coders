@@ -18,6 +18,7 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://bitbucket.org
 * https://github.com
 * https://git-scm.com/docs
+* https://gitexplorer.com/
 * https://www.sourcetreeapp.com
 
 ## Image placeholders

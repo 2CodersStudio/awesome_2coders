@@ -43,6 +43,10 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://laravel.com
 * https://rubyonrails.org
 
+## Laravel Packages
+
+* https://github.com/antonioribeiro/version
+
 ## iOS
 
 * https://github.com/futurice/ios-good-practices

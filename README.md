@@ -47,6 +47,11 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 
 * https://github.com/antonioribeiro/version
 
+## Wordpress
+
+* https://wordpress.org/download/
+* https://github.com/interconnectit/Search-Replace-DB
+
 ## iOS
 
 * https://github.com/futurice/ios-good-practices

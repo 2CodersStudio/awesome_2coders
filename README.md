@@ -11,6 +11,7 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 
 ## UI
 
+* https://www.figma.com
 * https://www.sketch.com
 
 ## Source code versioning
@@ -18,29 +19,33 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://bitbucket.org
 * https://github.com
 * https://git-scm.com/docs
-* https://gitexplorer.com/
-* https://www.sourcetreeapp.com
+* https://git-fork.com
 
 ## Image placeholders
 
 * https://picsum.photos
-* https://lorempixel.com
 * https://fakeimg.pl
 * https://eu.ui-avatars.com
 
 ## Web frontend
 
 * https://getbootstrap.com
-* https://reactjs.org
+* https://react.dev
 * https://angular.io
-* https://tympanus.net/codrops
 * https://aframe.io
 * https://threejs.org
 * https://github.com/nicolesaidy/awesome-web-design
 
+## Web frontend inspiration
+
+* https://tympanus.net/codrops
+* https://dribbble.com
+* https://www.behance.net
+  
 ## Web backend
 
 * https://laravel.com
+* https://madewithlaravel.com
 * https://rubyonrails.org
 
 ## Laravel Packages
@@ -55,11 +60,10 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 ## iOS
 
 * https://github.com/futurice/ios-good-practices
-* https://nshipster.com
-* https://wwdc.io
 * https://developer.apple.com/videos
 * https://cocoapods.org
 * https://www.cocoacontrols.com/
+* https://github.com/vsouza/awesome-ios
 * https://github.com/matteocrippa/awesome-swift
 
 ## Android
@@ -76,7 +80,6 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 
 * https://experiments.withgoogle.com/
 * https://github.com/sindresorhus/awesome
-* https://madewithlaravel.com/
 
 ## for everything else
 

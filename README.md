@@ -9,6 +9,10 @@ Curated list created by the team of 2Coders Studio: https://2coders.com
 * https://code.visualstudio.com
 * https://www.sublimetext.com
 
+## AI
+
+* https://github.com/ai-collection/ai-collection
+
 ## UI
 
 * https://www.figma.com
